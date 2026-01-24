@@ -1,0 +1,14 @@
+Start with Basic 
+
+            Day #1 
+            Only understand use of print 
+            Note:- I am using Kali linux.
+            Line one :- How to save python code Name as day1.py and Run with python3 day1.py 
+
+    Python code Start from here 
+                Print("YOu are Genius")
+                name= Input(Your good Name:", name)
+                Print("DAy one complete")
+
+
+            DAY #2
