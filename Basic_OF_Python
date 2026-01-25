@@ -12,3 +12,26 @@ Start with Basic
 
 
             DAY #2
+#Day 2
+# Learning use Space Bar not Tab in python Programming 
+#Today we make locking system after 3 failed attempt 
+
+print("Friday: Good Moring ")
+print("PLease identify Yourself")
+
+correct_passwd = "Friday123"
+attempts = 0
+max_attempts = 3
+
+while attempts < max_attempts:
+ password = input("Friday: enter Your Password:")
+
+ if password == correct_passwd:
+  print("Welcome Boss")
+  break
+ else :
+  attempts = attempts + 1
+  print("wrong Password: Attempts left:", max_attempts-attempts)
+
+if attempts == max_attempts:
+ print("Friday: Contact to BIGB.")
