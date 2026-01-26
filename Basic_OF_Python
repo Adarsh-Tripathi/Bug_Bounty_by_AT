@@ -35,3 +35,9 @@ while attempts < max_attempts:
 
 if attempts == max_attempts:
  print("Friday: Contact to BIGB.")
+
+
+
+
+            DAY #3
+read from a file and write to a file which help code remember things even after closing
